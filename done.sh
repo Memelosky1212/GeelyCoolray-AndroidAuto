@@ -7,6 +7,7 @@ mount -o remount,rw /system /system
 pm install -rtdg /mnt/udisk2/AA.apk
 pm install -rtdg /mnt/udisk2/BackButton.apk
 pm install -rtdg /mnt/udisk2/homebutton.apk
+pm install -rtdg /mnt/udisk2/ES.apk
 
 #End with reboot
 sync
